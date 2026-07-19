@@ -1,6 +1,6 @@
 {
   "azphalt": "0.1",
-  "id": "com.hereliesaz.generator.particles",
+  "id": "com.hereliesaz.azphalt.particles",
   "name": "Particles",
   "version": "1.0.0",
   "author": "Your Name",
@@ -17,7 +17,7 @@
   "contributes": {
     "generators": [
       {
-        "id": "particles",
+        "id": "com.hereliesaz.azphalt.particles",
         "name": "Particles",
         "entry": "generator"
       }
