@@ -6,6 +6,7 @@
   "kind": "code",
   "license": "GPL-3.0-or-later",
   "compat": ">=0.1",
+  "description": "Scatters a hundred small white specks across the frame — dust, snow or embers to composite over a shot.",
   "author": "HereLiesAz",
   "runtime": "js",
   "entry": "code/main.js",
